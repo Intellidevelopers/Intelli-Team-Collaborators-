@@ -1,3 +1,7 @@
+# Intelli-Team-Collaborators-
+This is a team collaboration on Sellust Multi Vendor Marketplace project for both front-end and back-end development... 
+
+
 ## Getting Started
 
 ## create .env at the root folder
