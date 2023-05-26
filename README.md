@@ -5,11 +5,21 @@ This is a team collaboration on Sellust Multi Vendor Marketplace project for bot
 ## Getting Started
 
 ## create .env at the root folder
+
+## port and mongourl
 PORT=
 MONGO_URI=""
-SENDGRID_API_KEY=""
+
+## jwt secret and expire time
 JWT_SECRET=""
 LASTING="
+
+## node mailer
+EMAIL=
+SENDERMAIL=
+PASSWORD=
+
+## then
 
 ## npm install
 ## npm start
